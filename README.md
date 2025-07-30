@@ -7,7 +7,7 @@ O app exibe sugestões de nomes geradas automaticamente, permitindo favoritar no
 
 ## 🚀 Funcionalidades
 
-- Geração automática de pares de palavras (ex: "Startup Name Generator")
+- Geração automática de pares de palavras (ex: "dayface")
 - Marcar nomes favoritos com ícone de coração ❤️
 - Navegar para uma tela de favoritos salvos
 - Layout responsivo com widgets do Flutter (Material Design)
