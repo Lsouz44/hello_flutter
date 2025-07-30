@@ -1,6 +1,6 @@
 # 📱 Namer App – Flutter Tutorial
 
-Este projeto é um app Flutter simples criado como parte do tutorial oficial do [Flutter no CodeSpace](https://codelabs.developers.google.com/codelabs/flutter-codelab-first).  
+Este projeto é um app Flutter simples criado como parte do tutorial oficial do [Flutter no CodeLab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first).  
 O app exibe sugestões de nomes geradas automaticamente, permitindo favoritar nomes com um clique.
 
 ---
